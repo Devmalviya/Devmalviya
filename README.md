@@ -1,3 +1,4 @@
+[![MasterHead].(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fprogramming-coding-programming-banner&psig=AOvVaw2MopJI3EH7AdarcF1CA4tq&ust=1706608996854000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCriJWsgoQDFQAAAAAdAAAAABAE)].(https://devmalviya.io)
 <h1 align="center">Hi 👋, I'm DEV MALVIYA</h1>
 <h3 align="center">React Developer , Java Developer , Design Developer , Creative UI/UX Designer , Continuous Learner</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/hand-drawn-neuroeducation-illustration_81387388.htm#fromView=search&term=learning&track=sph&regularType=vector&page=1&position=7&uuid=eb7cc1e1-a6cb-4f5e-9dfb-ca37052acf65" >
